@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\bin\Debug\JingLunReader.exe
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\bin\Debug\JingLunReader.pdb
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.Main.resources
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.Properties.Resources.resources
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.exe
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.pdb
+C:\Users\Administrator\Desktop\研究项目\读卡器研究\JingLunReader\JingLunReader\obj\Debug\JingLunReader.csprojAssemblyReference.cache
